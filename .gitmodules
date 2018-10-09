@@ -1,0 +1,3 @@
+[submodule "docs_cn"]
+	path = docs_cn
+	url = https://github.com/ronios1989/mynewt-doc-cn.git
